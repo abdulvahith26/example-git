@@ -108,6 +108,27 @@ else{
 
 
 //if-else if-else ladder
+a=6;
+if(a==1){
+    console.log("A is equal to "+a );
+}
+else if(a==2){
+    console.log("A is equal to" +a);
+}
+else if(a==3){
+    console.log("A is equal to "+a);
+}
+else if(a==4){
+    console.log("A is equal to "+a);
+}
+else if(a==5){
+    console.log("A is equal to "+a)
+}
+else{
+    console.log("Enter the numbers Between 0 to 5");
+}
+
+
 let exp = prompt("Enter your work experience in years:");
 if(exp <= 0) {
     console.log("You are eligible for an internship.");
@@ -130,8 +151,23 @@ else {
 
 
 //nested if
-let age = 26;         // The person's age
-let isStudent = false; // Whether the person is a student (true/false)
+const userName="Ranjith";
+const passWord="Abc@123";
+if(userName==="Ranjith"){
+    if(passWord==="Abc@123"){
+        console.log("login successfull")
+    }
+    else{
+        console.log("incorrect Password")
+    }
+}else{
+    console.log("Enter the Correct User Name ")
+
+}
+
+
+let age = 66;         
+let isStudent = false; 
 
 if (age < 18) {
     if (isStudent) {
@@ -147,7 +183,7 @@ if (age < 18) {
     }
 } else if (age > 25) {
     if (isStudent) {
-        console.log("May be working Proffection");
+        console.log("Education: PHD");
     } else {
       let prff=  prompt("Enter your Proffesion");
       console.log("proffesion: "+prff )
@@ -171,7 +207,7 @@ let dayName;
 switch (dayNumber) {
     case 1:
         dayName = "Monday";
-        break;
+        break;  
     case 2:
         dayName = "Tuesday";
         break;
@@ -234,13 +270,23 @@ for (let number of numbers) {
 
 
 //nested for loop
+
+for(let i=1;i<=5;i++){
+    console.log(i);
+    for(let j=1; j<=5; j++){
+        
+        console.log("      " j)
+    }
+}
+
+
+
 for (let i = 1; i <= 2; i++) {
     console.log("the outer loop" +i)
     for (let j = 1; j <= 5; j++) {
        console.log("  the inner loop" +j)
     }
 }
-
 
 
 
