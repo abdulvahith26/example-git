@@ -1,0 +1,2256 @@
+
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+a {
+    color: #000;
+    font-family: "poppins";
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+    color: #fa7436;
+}
+
+.bg {
+    position: absolute;
+    top: 48px;
+    left: 0px;
+    background-color: #fefcfb;
+    width: 1920px;
+    height: 999px;
+}
+.journey {
+    color: #fa7436;
+}
+.get-started-your-exciting-jour {
+    margin: 0;
+}
+.get-started-your-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 70px;
+    display: inline-block;
+    font-family: Volkhov;
+    width: 521px;
+}
+.a-team-of {
+    position: absolute;
+    top: 242px;
+    left: 0px;
+    font-size: 20px;
+    line-height: 40px;
+    color: #666;
+    display: inline-block;
+    width: 497px;
+}
+.discover-now {
+    position: absolute;
+    top: 14px;
+    left: 28px;
+    line-height: 32px;
+    font-weight: 500;
+
+}
+.discover-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 426px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #fa7436;
+    box-sizing: border-box;
+    width: 178px;
+    height: 60px;
+    font-size: 18px;
+    color: #fa7436;
+}
+.discover-btn:hover{
+    background-color:#fa7436;
+    color: #fff;
+}
+.content {
+    position: absolute;
+    top: 210px;
+    left: 375px;
+    width: 521px;
+    height: 486px;
+    font-size: 64px;
+}
+.shape {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fefcfb;
+    width: 1170px;
+    height: 114px;
+}
+.home {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 24px;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 80px;
+    line-height: 24px;
+}
+.destination {
+    position: absolute;
+    top: 0px;
+    left: 160px;
+    line-height: 24px;
+}
+.tour {
+    position: absolute;
+    top: 0px;
+    left: 283px;
+    line-height: 24px;
+}
+.blog {
+    position: absolute;
+    top: 0px;
+    left: 351px;
+    line-height: 24px;
+}
+.menu1 {
+    position: absolute;
+    top: 13px;
+    left: 366px;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    width: 386px;
+    height: 30px;
+    font-weight: bold;
+}
+.login1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.login {
+    cursor: pointer;
+    position: absolute;
+    top: 13px;
+    left: 910px;
+    width: 44px;
+    height: 24px;
+    text-align: right;
+    color: #fd8d3a;
+}
+.login:hover{
+    color: #0c0601;
+}
+
+.sign-up-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 8px 16px rgba(250, 116, 54, 0.24);
+    border-radius: 5px;
+    background-color: #fa7436;
+    width: 160px;
+    height: 50px;
+}
+
+.sign-up-child:hover{
+    background-color: #fefcfb;
+    color: #fa7436;
+}
+
+.sign-up1 {
+    cursor: pointer;
+    position: absolute;
+    top: 13px;
+    left: 50px;
+    font-weight: 600;
+}
+
+
+
+.sign-up {
+    position: absolute;
+    top: 0px;
+    left: 1010px;
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    color: #fff;
+}
+.sign-up:hover{
+    color: #fa7436;
+}
+.trabook {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+}
+.vector-icon {
+    position: absolute;
+    height: 79.17%;
+    width: 14.62%;
+    top: 12.5%;
+    right: 0%;
+    bottom: 8.33%;
+    left: 85.38%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.logo {
+    position: absolute;
+    top: 13px;
+    left: 0px;
+    width: 130px;
+    height: 24px;
+    font-size: 24px;
+    font-family: Volkhov;
+}
+.menu {
+    position: absolute;
+    top: 32px;
+    left: 0px;
+    width: 1170px;
+    height: 50px;
+}
+.nav-menu {
+    cursor: pointer;
+
+    position: absolute;
+    top: 0px;
+    left: 375px;
+    width: 1170px;
+    height: 114px;
+}
+.element-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 785px;
+    height: 191px;
+    overflow: hidden;
+    opacity: 0.3;
+}
+.group-child {
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #fa7436;
+    width: 500px;
+    height: 500px;
+}
+.tourist-with-thumb-up-1-remo-icon {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    width: 450px;
+    height: 530px;
+    object-fit: cover;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 55px;
+    left: 129px;
+    width: 500px;
+    height: 530px;
+}
+.card-1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: -8px 8px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 150px;
+    height: 66px;
+}
+.best-tour-awards-container {
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    font-weight: 500;
+    display: inline-block;
+    width: 76px;
+}
+.trophy-removebg-preview-1-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.best-tour-awards-parent {
+    position: absolute;
+    top: 9px;
+    left: 16px;
+    width: 118px;
+    height: 48px;
+}
+.card-1 {
+    position: absolute;
+    top: 142px;
+    left: 73px;
+    width: 150px;
+    height: 66px;
+}
+.card-2-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 8px 8px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 173px;
+    height: 74px;
+}
+.explore {
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    font-weight: 500;
+    display: inline-block;
+    width: 63px;
+}
+.every-cornar-of {
+    position: absolute;
+    top: 26px;
+    left: 42px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #666;
+    display: inline-block;
+    width: 101px;
+}
+.google-maps-1-icon {
+    position: absolute;
+    top: 16px;
+    left: 0px;
+    border-radius: 10px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.explore-parent {
+    position: absolute;
+    top: 8px;
+    left: 15px;
+    width: 143px;
+    height: 58px;
+}
+.card-2 {
+    position: absolute;
+    top: 265px;
+    left: 456px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 173px;
+    height: 74px;
+}
+.card-3-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: -8px 8px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 192px;
+    height: 68px;
+}
+.star-1-icon {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    border-radius: 10px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.customer-reviewd {
+    position: absolute;
+    top: 26px;
+    left: 0px;
+}
+.k {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #444;
+}
+.customer-reviewd-parent {
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    width: 113px;
+    height: 44px;
+}
+.star-1-parent {
+    position: absolute;
+    top: 12px;
+    left: 19px;
+    width: 155px;
+    height: 44px;
+}
+.card-3 {
+    position: absolute;
+    top: 391px;
+    left: 111px;
+    width: 192px;
+    height: 68px;
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+}
+.image {
+    position: absolute;
+    top: 117px;
+    left: 916px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 785px;
+    height: 585px;
+    color: #444;
+}
+.shape1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 2px 80px 2px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 841px;
+    height: 124px;
+}
+.explore-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 0px;
+    left: 628px;
+    box-shadow: 0px 8px 16px rgba(250, 116, 54, 0.16);
+    border-radius: 5px;
+    background-color: #fa7436;
+    width: 165px;
+    height: 60px;
+}
+.explore-btn:hover {
+    background-color:#f5dbce;
+    color:#fa7436
+
+}
+.where-are-you {
+    position: absolute;
+    top: 18.31px;
+    left: 0px;
+    display: inline-block;
+    width: 126px;
+    height: 9.7px;
+}
+.location {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 69px;
+    height: 12.9px;
+}
+.group-item {
+    position: absolute;
+    top: 5.12px;
+    left: 74px;
+    width: 10px;
+    height: 2.7px;
+}
+.location-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 84px;
+    height: 12.9px;
+    font-size: 16px;
+    color: #222;
+}
+.where-are-you-going-parent {
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    width: 126px;
+    height: 28px;
+}
+.date {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.group-inner {
+    position: absolute;
+    top: 9.5px;
+    left: 44px;
+    width: 10px;
+    height: 5px;
+}
+.date-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 24px;
+}
+.when-you-will {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+    font-size: 12px;
+    color: #666;
+}
+.group-parent {
+    position: absolute;
+    top: 0px;
+    left: 226px;
+    width: 101px;
+    height: 52px;
+    font-size: 16px;
+    color: #222;
+}
+.number-of-guest {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+}
+.group-child1 {
+    position: absolute;
+    top: 9.5px;
+    left: 53px;
+    width: 10px;
+    height: 5px;
+}
+.guest-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 63px;
+    height: 24px;
+    font-size: 16px;
+    color: #222;
+}
+.number-of-guest-parent {
+    position: absolute;
+    top: 0px;
+    left: 427px;
+    width: 101px;
+    height: 52px;
+}
+.content2 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    width: 528px;
+    height: 52px;
+    font-size: 12px;
+    color: #666;
+}
+.content1 {
+    position: absolute;
+    top: 32px;
+    left: 24px;
+    width: 793px;
+    height: 60px;
+}
+.search-bar {
+    position: absolute;
+    top: 755px;
+    left: 540px;
+    width: 841px;
+    height: 124px;
+    font-size: 18px;
+    color: #fff;
+}
+.hero-section {
+    position: absolute;
+    top: 10px;
+    left: 28px;
+    width: 1920px;
+    height: 1047px;
+}
+.bg1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f7f8fc;
+    width: 1920px;
+    height: 724px;
+}
+.things-you-need-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 54px;
+}
+.we-ensure-that {
+    position: absolute;
+    top: 78px;
+    left: 19px;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: Poppins;
+    color: #666;
+    text-align: center;
+    display: inline-block;
+    width: 482px;
+}
+.content4 {
+    position: absolute;
+    top: 0px;
+    left: 325px;
+    width: 521px;
+    height: 142px;
+    font-size: 48px;
+    font-family: Volkhov;
+}
+.sign-up-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 14px 24px 72px rgba(102, 102, 102, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    width: 370px;
+    height: 278px;
+}
+.sign-up-inner {
+    position: absolute;
+    top: 0.5px;
+    left: 3px;
+    width: 367px;
+    height: 274.5px;
+}
+.group-icon {
+    position: absolute;
+    height: 17.27%;
+    width: 12.97%;
+    top: 14.39%;
+    right: 76.22%;
+    bottom: 68.35%;
+    left: 10.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.completes-all-the {
+    position: absolute;
+    top: 186px;
+    left: 40px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #666;
+    display: inline-block;
+    width: 290px;
+}
+.sign-up2 {
+    position: absolute;
+    top: 206px;
+    left: 0px;
+    width: 370px;
+    height: 278px;
+}
+.money-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #fff;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    box-sizing: border-box;
+    width: 370px;
+    height: 278px;
+}
+.money-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 365.5px;
+    height: 273.5px;
+}
+.worth-of-money {
+    position: absolute;
+    top: 136px;
+    left: 40px;
+    line-height: 34px;
+    font-weight: 600;
+}
+.group-icon1 {
+    position: absolute;
+    height: 17.27%;
+    width: 12.59%;
+    top: 14.39%;
+    right: 76.59%;
+    bottom: 68.35%;
+    left: 10.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.money {
+    position: absolute;
+    top: 206px;
+    left: 400px;
+    width: 370px;
+    height: 278px;
+}
+.travel-item {
+    position: absolute;
+    top: 5px;
+    left: 4.5px;
+    width: 361.5px;
+    height: 269px;
+}
+.group-icon2 {
+    position: absolute;
+    height: 17.27%;
+    width: 11.11%;
+    top: 14.39%;
+    right: 78.08%;
+    bottom: 68.35%;
+    left: 10.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.travel {
+    position: absolute;
+    top: 206px;
+    left: 800px;
+    width: 370px;
+    height: 278px;
+}
+.content3 {
+    position: absolute;
+    top: 110px;
+    left: 377px;
+    width: 1170px;
+    height: 484px;
+}
+.element-icon1 {
+    position: absolute;
+    height: 18.05%;
+    width: 9.37%;
+    top: 15.19%;
+    right: 23.49%;
+    bottom: 66.75%;
+    left: 67.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.things-your-need {
+    position: absolute;
+    top: 1009px;
+    left: -3px;
+    width: 1920px;
+    height: 724px;
+    font-size: 24px;
+}
+.bg2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fefcfb;
+    width: 1920px;
+    height: 960px;
+}
+.exclusive-deals-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 54px;
+    display: inline-block;
+    width: 675px;
+    height: 53.4px;
+}
+.discover-our-fantastic {
+    position: absolute;
+    top: 77.13px;
+    left: 121px;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: Poppins;
+    color: #666;
+    text-align: center;
+    display: inline-block;
+    width: 433px;
+    height: 63.3px;
+}
+.content6 {
+    position: absolute;
+    top: 0px;
+    left: 248px;
+    width: 675px;
+    height: 140.4px;
+}
+.bg3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #fefcfb;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    box-sizing: border-box;
+    width: 270px;
+    height: 421.3px;
+}
+.image-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 270px;
+    height: 286.8px;
+    object-fit: cover;
+}
+.madrid {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 26px;
+    font-weight: 500;
+    display: inline-block;
+    width: 86px;
+    height: 25.7px;
+}
+.content7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 86px;
+    height: 25.7px;
+}
+.star-1-icon1 {
+    position: absolute;
+    top: 3.96px;
+    left: 0px;
+    border-radius: 8px;
+    width: 16px;
+    height: 15.8px;
+    object-fit: cover;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    line-height: 24px;
+    display: inline-block;
+    width: 24px;
+    height: 23.7px;
+}
+.content8 {
+    position: absolute;
+    top: 0.99px;
+    left: 190px;
+    width: 48px;
+    height: 23.7px;
+    font-size: 16px;
+    color: #666;
+}
+.upper-content {
+    position: absolute;
+    top: 318.42px;
+    left: 16px;
+    width: 238px;
+    height: 25.7px;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 79.8%;
+    width: 18.92%;
+    top: 9.99%;
+    right: 81.08%;
+    bottom: 10.21%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.spain {
+    position: absolute;
+    top: 0px;
+    left: 20.57px;
+    line-height: 20px;
+    display: inline-block;
+    width: 46px;
+    height: 19.8px;
+}
+.content9 {
+    position: absolute;
+    height: 71.48%;
+    width: 27.98%;
+    top: 3.57%;
+    right: 72.02%;
+    bottom: 24.95%;
+    left: 0%;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #ffe7db;
+    width: 52px;
+    height: 27.7px;
+}
+.div1 {
+    position: absolute;
+    top: 1.98px;
+    left: 5px;
+    line-height: 24px;
+    font-weight: 600;
+    display: inline-block;
+    width: 42px;
+    height: 23.7px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 58px;
+    width: 52px;
+    height: 27.7px;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 24px;
+    font-weight: 500;
+    display: inline-block;
+    width: 42px;
+    height: 23.7px;
+}
+.line-div {
+    position: absolute;
+    top: 11.87px;
+    left: 3px;
+    border-top: 1px solid #999;
+    box-sizing: border-box;
+    width: 40px;
+    height: 1px;
+}
+.parent {
+    position: absolute;
+    top: 1.98px;
+    left: 0px;
+    width: 42px;
+    height: 23.7px;
+    color: #999;
+}
+.content10 {
+    position: absolute;
+    top: 0px;
+    left: 128px;
+    width: 110px;
+    height: 27.7px;
+    color: #fa7436;
+}
+.bottom-content {
+    position: absolute;
+    height: 6.57%;
+    width: 88.15%;
+    top: 85.91%;
+    right: 5.93%;
+    bottom: 7.52%;
+    left: 5.93%;
+    font-size: 16px;
+    color: #666;
+}
+.card-11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 270px;
+    height: 421.3px;
+}
+.bg4 {
+    position: absolute;
+    top: 1.98px;
+    left: 0px;
+    box-shadow: 0px 16px 80px rgba(254, 147, 94, 0.2);
+    border-radius: 10px;
+    background-color: #fefcfb;
+    width: 270px;
+    height: 421.3px;
+}
+.image-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 28px;
+    border-radius: 10px 10px 0px 0px;
+    width: 270px;
+    height: 286.8px;
+    object-fit: cover;
+}
+.hover {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 270px;
+    height: 286.8px;
+}
+.book-now {
+    position: absolute;
+    top: 9px;
+    left: 22px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.book-now-btn {
+    position: absolute;
+    top: 189.87px;
+    left: 71px;
+    border-radius: 8px;
+    background-color: #fa7436;
+    width: 132px;
+    height: 49.4px;
+}
+.hover-effect {
+    position: absolute;
+    top: 1.98px;
+    left: 26px;
+    width: 270px;
+    height: 286.8px;
+    text-align: left;
+}
+.firenze {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 26px;
+    font-weight: 500;
+    display: inline-block;
+    width: 85px;
+    height: 25.7px;
+}
+.content11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 85px;
+    height: 25.7px;
+}
+.star-1-icon2 {
+    position: absolute;
+    top: 1.98px;
+    left: 0px;
+    border-radius: 10px;
+    width: 16px;
+    height: 15.8px;
+    object-fit: cover;
+}
+.div3 {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    line-height: 20px;
+    display: inline-block;
+    width: 24px;
+    height: 19.8px;
+}
+.upper-content1 {
+    position: absolute;
+    top: 318.42px;
+    left: 44px;
+    width: 238px;
+    height: 25.7px;
+    font-size: 24px;
+    color: #222;
+}
+.content-child {
+    position: absolute;
+    height: 79.8%;
+    width: 23.08%;
+    top: 9.99%;
+    right: 76.92%;
+    bottom: 10.21%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.italy {
+    position: absolute;
+    top: 0px;
+    left: 20.57px;
+    line-height: 20px;
+    display: inline-block;
+    width: 34px;
+    height: 19.8px;
+}
+.content13 {
+    position: absolute;
+    height: 71.48%;
+    width: 22.94%;
+    top: 0%;
+    right: 77.06%;
+    bottom: 28.52%;
+    left: 0%;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #ffe7db;
+    width: 52px;
+    height: 27.7px;
+}
+.div4 {
+    position: absolute;
+    top: 1.98px;
+    left: 6px;
+    line-height: 24px;
+    font-weight: 600;
+    display: inline-block;
+    width: 40px;
+    height: 23.7px;
+}
+.group-child3 {
+    position: absolute;
+    top: 11.87px;
+    left: 3px;
+    border-top: 1px solid #666;
+    box-sizing: border-box;
+    width: 40px;
+    height: 1px;
+}
+.group {
+    position: absolute;
+    top: 1.98px;
+    left: 0px;
+    width: 42px;
+    height: 23.7px;
+    color: #666;
+}
+.footercontent {
+    position: absolute;
+    height: 6.55%;
+    width: 79.87%;
+    top: 85.52%;
+    right: 5.37%;
+    bottom: 7.93%;
+    left: 14.77%;
+    font-size: 16px;
+    color: #666;
+}
+.card-21 {
+    position: absolute;
+    top: 0px;
+    left: 272px;
+    width: 298px;
+    height: 423.2px;
+    font-size: 18px;
+    color: #fff;
+}
+.paris {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 26px;
+    font-weight: 500;
+    display: inline-block;
+    width: 59px;
+    height: 25.7px;
+}
+.content15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 59px;
+    height: 25.7px;
+}
+.star-1-icon3 {
+    position: absolute;
+    top: 1.98px;
+    left: 0px;
+    border-radius: 8px;
+    width: 16px;
+    height: 15.8px;
+    object-fit: cover;
+}
+.contrent {
+    position: absolute;
+    top: 2.97px;
+    left: 190px;
+    width: 48px;
+    height: 19.8px;
+    font-size: 16px;
+    color: #666;
+}
+.vector-icon2 {
+    position: absolute;
+    height: 79.8%;
+    width: 16.67%;
+    top: 9.99%;
+    right: 83.33%;
+    bottom: 10.21%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.france {
+    position: absolute;
+    top: 0px;
+    left: 20.57px;
+    line-height: 20px;
+    display: inline-block;
+    width: 55px;
+    height: 19.8px;
+}
+.content16 {
+    position: absolute;
+    height: 71.48%;
+    width: 31.76%;
+    top: 0%;
+    right: 68.24%;
+    bottom: 28.52%;
+    left: 0%;
+}
+.div7 {
+    position: absolute;
+    top: 1.98px;
+    left: 6px;
+    line-height: 24px;
+    font-weight: 600;
+    display: inline-block;
+    width: 41px;
+    height: 23.7px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 0px;
+    left: 57px;
+    width: 52px;
+    height: 27.7px;
+}
+.div8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 24px;
+    font-weight: 500;
+    display: inline-block;
+    width: 41px;
+    height: 23.7px;
+}
+.group-child5 {
+    position: absolute;
+    top: 11.87px;
+    left: 2px;
+    border-top: 1px solid #666;
+    box-sizing: border-box;
+    width: 40px;
+    height: 1px;
+}
+.container {
+    position: absolute;
+    top: 1.98px;
+    left: 0px;
+    width: 41px;
+    height: 23.7px;
+    color: #666;
+}
+.content17 {
+    position: absolute;
+    top: 0px;
+    left: 129px;
+    width: 109px;
+    height: 27.7px;
+    color: #fa7436;
+}
+.card-31 {
+    position: absolute;
+    top: 0px;
+    left: 600px;
+    width: 270px;
+    height: 421.3px;
+}
+.london {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 26px;
+    font-weight: 500;
+    display: inline-block;
+    width: 89px;
+    height: 25.7px;
+}
+.content18 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 89px;
+    height: 25.7px;
+}
+.vector-icon3 {
+    position: absolute;
+    height: 79.8%;
+    width: 30.29%;
+    top: 9.99%;
+    right: 69.71%;
+    bottom: 10.21%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.uk {
+    position: absolute;
+    top: 0px;
+    left: 20.57px;
+    line-height: 20px;
+    display: inline-block;
+    width: 21px;
+    height: 19.8px;
+}
+.content20 {
+    position: absolute;
+    height: 71.48%;
+    width: 17.48%;
+    top: 0%;
+    right: 82.52%;
+    bottom: 28.52%;
+    left: 0%;
+}
+.card-4 {
+    position: absolute;
+    top: 0px;
+    left: 900px;
+    width: 270px;
+    height: 421.3px;
+}
+.card {
+    position: absolute;
+    top: 203.71px;
+    left: 0px;
+    width: 1170px;
+    height: 423.2px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Poppins;
+}
+.slider-btn-icon {
+    position: absolute;
+    top: 672.44px;
+    left: 529px;
+    width: 104px;
+    height: 39.6px;
+}
+.content5 {
+    position: absolute;
+    top: 128px;
+    left: 373px;
+    width: 1170px;
+    height: 712px;
+}
+.exclusive-deals {
+    position: absolute;
+    top: 1723px;
+    left: 2px;
+    width: 1920px;
+    height: 960px;
+    font-size: 48px;
+    font-family: Volkhov;
+}
+.bg7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fefcfb;
+    width: 1920px;
+    height: 893px;
+}
+.element-icon2 {
+    position: absolute;
+    height: 9.07%;
+    width: 5.49%;
+    top: 13.44%;
+    right: 29.35%;
+    bottom: 77.49%;
+    left: 65.16%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bg8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    background-color: #fff;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    box-sizing: border-box;
+    width: 370px;
+    height: 447px;
+}
+.image-icon4 {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    border-radius: 16px;
+    width: 369px;
+    height: 327px;
+    object-fit: cover;
+}
+.rome-italty {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 32px;
+    font-weight: 500;
+    display: inline-block;
+    width: 164px;
+}
+.k1 {
+    position: absolute;
+    top: 0px;
+    left: 238px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #fa7436;
+    display: inline-block;
+    width: 81px;
+}
+.upper-content4 {
+    position: absolute;
+    top: 351px;
+    left: 27px;
+    width: 319px;
+    height: 32px;
+}
+.navigation-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 12.97%;
+    top: 16.14%;
+    right: 87.03%;
+    bottom: 17.19%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.days-trip {
+    position: absolute;
+    top: 0px;
+    left: 33.29px;
+    line-height: 24px;
+    font-weight: 500;
+    display: inline-block;
+    width: 111.6px;
+}
+.content23 {
+    position: absolute;
+    height: 100%;
+    width: 45.67%;
+    top: 0%;
+    right: 54.33%;
+    bottom: 0%;
+    left: 0%;
+}
+.star-1-icon5 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    border-radius: 10px;
+    width: 16px;
+    height: 16px;
+    object-fit: cover;
+}
+.div12 {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    line-height: 24px;
+}
+.content24 {
+    position: absolute;
+    top: 0px;
+    left: 269.31px;
+    width: 48px;
+    height: 24px;
+    text-align: center;
+}
+.footercontent2 {
+    position: absolute;
+    height: 5.37%;
+    width: 85.76%;
+    top: 89.26%;
+    right: 6.49%;
+    bottom: 5.37%;
+    left: 7.76%;
+    font-size: 16px;
+    color: #666;
+}
+.card-12 {
+    position: absolute;
+    top: 206px;
+    left: 0px;
+    width: 370px;
+    height: 447px;
+}
+.bg9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 16px 80px rgba(254, 147, 94, 0.2);
+    border-radius: 16px;
+    background-color: #fefcfb;
+    width: 370px;
+    height: 447px;
+}
+.navigation-icon1 {
+    position: absolute;
+    height: 66.67%;
+    width: 12.67%;
+    top: 16.14%;
+    right: 87.33%;
+    bottom: 17.19%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.days-trip1 {
+    position: absolute;
+    top: 0px;
+    left: 36.79px;
+    line-height: 24px;
+    font-weight: 500;
+    display: inline-block;
+    width: 111.6px;
+}
+.content25 {
+    position: absolute;
+    height: 100%;
+    width: 46.52%;
+    top: 0%;
+    right: 53.48%;
+    bottom: 0%;
+    left: 0%;
+}
+.div13 {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    line-height: 24px;
+}
+.content26 {
+    position: absolute;
+    top: 0px;
+    left: 271px;
+    width: 48px;
+    height: 24px;
+    text-align: center;
+}
+.footercontent3 {
+    position: absolute;
+    height: 5.37%;
+    width: 86.22%;
+    top: 89.26%;
+    right: 6.49%;
+    bottom: 5.37%;
+    left: 7.3%;
+    font-size: 16px;
+    color: #666;
+}
+.card-22 {
+    position: absolute;
+    top: 206px;
+    left: 400px;
+    width: 370px;
+    height: 447px;
+}
+.k3 {
+    position: absolute;
+    top: 0px;
+    left: 239px;
+    line-height: 32px;
+    font-weight: 600;
+    color: #fa7436;
+    display: inline-block;
+    width: 81px;
+}
+.upper-content6 {
+    position: absolute;
+    top: 351px;
+    left: 26px;
+    width: 320px;
+    height: 32px;
+}
+.content27 {
+    position: absolute;
+    height: 100%;
+    width: 46.77%;
+    top: 0%;
+    right: 53.23%;
+    bottom: 0%;
+    left: 0%;
+}
+.card-32 {
+    position: absolute;
+    top: 206px;
+    left: 800px;
+    width: 370px;
+    height: 447px;
+}
+.best-vacation-plan-container {
+    position: absolute;
+    top: 0px;
+    left: 44px;
+    line-height: 54px;
+}
+.plan-your-perfect {
+    position: absolute;
+    top: 78px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: Poppins;
+    color: #666;
+    text-align: center;
+    display: inline-block;
+    width: 521px;
+}
+.slider-btn-icon1 {
+    position: absolute;
+    top: 142px;
+    left: 1058px;
+    width: 112px;
+    height: 40px;
+}
+.content22 {
+    position: absolute;
+    top: 120px;
+    left: 375px;
+    width: 1170px;
+    height: 653px;
+}
+.vacation-plan {
+    position: absolute;
+    top: 2683px;
+    left: 0px;
+    width: 1920px;
+    height: 893px;
+    font-size: 24px;
+}
+.vector-icon4 {
+    position: absolute;
+    height: 4.75%;
+    width: 1.65%;
+    top: 4.87%;
+    right: 22.94%;
+    bottom: 90.39%;
+    left: 75.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    display: none;
+}
+.bg11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f7f8fc;
+    width: 1920px;
+    height: 596px;
+}
+.element-icon3 {
+    position: absolute;
+    height: 31.56%;
+    width: 8.78%;
+    top: 9.4%;
+    right: 16.64%;
+    bottom: 59.04%;
+    left: 74.58%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.bg12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 10px 30px rgba(34, 34, 34, 0.35);
+    border-radius: 10px;
+    border: 2px solid rgba(102, 102, 102, 0.08);
+    box-sizing: border-box;
+    width: 502px;
+    height: 232px;
+}
+.on-the-windows {
+    position: absolute;
+    top: 16px;
+    left: 34px;
+    line-height: 32px;
+    font-family: 'Open Sans';
+    display: inline-block;
+    width: 402px;
+}
+.chris-thomas {
+    position: absolute;
+    top: 156px;
+    left: 34px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+    opacity: 0.5;
+}
+.ceo-of-red {
+    position: absolute;
+    top: 189px;
+    left: 34px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #666;
+    display: inline-block;
+    width: 127px;
+    opacity: 0.5;
+}
+.client-2 {
+    position: absolute;
+    top: 124px;
+    left: 601px;
+    width: 502px;
+    height: 232px;
+}
+.bg13 {
+    position: absolute;
+    top: 34px;
+    left: 37px;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02), 0px 64.81481170654297px 46.85px rgba(0, 0, 0, 0.02), 0px 38.51852035522461px 25.48px rgba(0, 0, 0, 0.01), 0px 20px 13px rgba(0, 0, 0, 0.01), 0px 8.148148536682129px 6.52px rgba(0, 0, 0, 0.01), 0px 1.8518518209457397px 3.15px rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 504px;
+    height: 245px;
+}
+.testimonail {
+    position: absolute;
+    top: 62px;
+    left: 71px;
+    line-height: 32px;
+    font-weight: 500;
+    display: inline-block;
+    width: 402px;
+}
+.image-icon7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    width: 68px;
+    height: 68px;
+    object-fit: cover;
+}
+.mike-taylor {
+    position: absolute;
+    top: 192px;
+    left: 71px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+}
+.lahore-pakistan {
+    position: absolute;
+    top: 224px;
+    left: 71px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #666;
+}
+.client-1 {
+    position: absolute;
+    top: 0px;
+    left: 514px;
+    width: 541px;
+    height: 279px;
+    color: #444;
+}
+.our-clients-send {
+    position: absolute;
+    top: 132px;
+    left: 0px;
+    line-height: 32px;
+    display: inline-block;
+    width: 394px;
+}
+.hat-people-say {
+    text-transform: lowercase;
+}
+.about-us {
+    margin: 0;
+    color: #fa7436;
+}
+.heading {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    line-height: 54px;
+    font-family: Volkhov;
+    color: #222;
+}
+.slider-btn-icon2 {
+    position: absolute;
+    top: 228px;
+    left: 0px;
+    width: 112px;
+    height: 40px;
+}
+.content31 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 394px;
+    height: 268px;
+    color: #666;
+    font-family: Roboto;
+}
+.content30 {
+    position: absolute;
+    top: 120px;
+    left: 376px;
+    width: 1103px;
+    height: 356px;
+}
+.people-about-us {
+    position: absolute;
+    height: 10.14%;
+    width: 100%;
+    top: 60.87%;
+    right: 0%;
+    bottom: 28.99%;
+    left: 0%;
+    color: #4e4e73;
+}
+.bg14 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fefcfb;
+    width: 1920px;
+    height: 805px;
+}
+.july-27-2021 {
+    position: absolute;
+    top: 68px;
+    left: 0px;
+    line-height: 26px;
+}
+.the-amazing-difference {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #222;
+    display: inline-block;
+    width: 244px;
+}
+.content32 {
+    position: absolute;
+    top: 294px;
+    left: 0px;
+    width: 244px;
+    height: 94px;
+}
+.image-icon8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 270px;
+    height: 270px;
+    object-fit: cover;
+}
+.card-13 {
+    position: absolute;
+    top: 239px;
+    left: 375px;
+    width: 270px;
+    height: 388px;
+}
+.card-23 {
+    position: absolute;
+    top: 239px;
+    left: 675px;
+    width: 270px;
+    height: 388px;
+}
+.card-33 {
+    position: absolute;
+    top: 239px;
+    left: 975px;
+    width: 270px;
+    height: 388px;
+}
+.card-41 {
+    position: absolute;
+    top: 239px;
+    left: 1275px;
+    width: 270px;
+    height: 388px;
+}
+.get-update-with-container {
+    position: absolute;
+    top: 121px;
+    left: 637px;
+    font-size: 48px;
+    line-height: 54px;
+    display: inline-block;
+    font-family: Volkhov;
+    width: 646px;
+    color: #000;
+}
+.slider-icon {
+    position: absolute;
+    top: 672px;
+    left: 933px;
+    width: 54px;
+    height: 14px;
+}
+.blog1 {
+    position: absolute;
+    top: 4171px;
+    left: 0px;
+    width: 1920px;
+    height: 805px;
+    color: #999;
+    font-family: Inter;
+}
+.bg15 {
+    position: absolute;
+    top: 210px;
+    left: 0px;
+    background-color: #f7f8fc;
+    width: 1920px;
+    height: 688px;
+}
+.company1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 26px;
+    font-weight: 600;
+    color: #222;
+}
+.careers {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    line-height: 26px;
+}
+.logistic {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+    line-height: 26px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 184px;
+    left: 0px;
+    line-height: 26px;
+}
+.company {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 140px;
+    height: 210px;
+}
+.helpfaq {
+    position: absolute;
+    top: 58px;
+    left: 0px;
+    line-height: 26px;
+}
+.contact {
+    position: absolute;
+    top: 0px;
+    left: 270px;
+    width: 85px;
+    height: 168px;
+}
+.more1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 21px;
+    line-height: 124.5%;
+    font-weight: 600;
+    color: #222;
+}
+.more {
+    position: absolute;
+    top: 0px;
+    left: 485px;
+    width: 113px;
+    height: 168px;
+}
+.content36 {
+    position: absolute;
+    top: 536px;
+    left: 947px;
+    width: 598px;
+    height: 210px;
+    font-size: 18px;
+}
+.social-icon {
+    position: absolute;
+    top: 4px;
+    left: 136px;
+    width: 40px;
+    height: 40px;
+}
+.social-icon1 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    width: 40px;
+    height: 40px;
+}
+.social-icon2 {
+    position: absolute;
+    top: 0px;
+    left: 66px;
+    width: 48px;
+    height: 48px;
+}
+.social {
+    position: absolute;
+    top: 128px;
+    left: 0px;
+    width: 176px;
+    height: 48px;
+}
+.book-your-trip-container {
+    position: absolute;
+    top: 48px;
+    left: 0px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.logo1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 130px;
+    height: 24px;
+    font-size: 24px;
+    color: #222;
+    font-family: Volkhov;
+}
+.content37 {
+    position: absolute;
+    top: 536px;
+    left: 376px;
+    width: 254px;
+    height: 176px;
+}
+.terms-conditions {
+    position: absolute;
+    top: 0px;
+    left: 1016px;
+    opacity: 0.8;
+}
+.copyright-trabook-2022 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: left;
+    opacity: 0.8;
+}
+.content38 {
+    position: absolute;
+    top: 826px;
+    left: 376px;
+    width: 1172px;
+    height: 24px;
+    text-align: right;
+}
+.border {
+    position: absolute;
+    top: 785.5px;
+    left: 377.5px;
+    border-top: 1px solid rgba(153, 153, 153, 0.56);
+    box-sizing: border-box;
+    width: 1171px;
+    height: 1px;
+}
+.bg16 {
+    position: absolute;
+    top: 430px;
+    left: 1170px;
+    border-radius: 16px;
+    background-color: #fa7436;
+    width: 1170px;
+    height: 416px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.elements-icon {
+    position: absolute;
+    top: 9px;
+    left: 3px;
+    width: 1167.2px;
+    height: 407px;
+    object-fit: cover;
+}
+.subscribe-and-get {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 708px;
+}
+.box {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 674px;
+    height: 68px;
+}
+.enter-your-mail {
+    position: absolute;
+    top: 0px;
+    left: 26.67px;
+}
+.group-child8 {
+    position: absolute;
+    top: 5.33px;
+    left: 3.56px;
+    border-radius: 1px;
+    width: 10.7px;
+    height: 4px;
+    display: none;
+}
+.group-child9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    border: 1px solid #999;
+    box-sizing: border-box;
+    width: 18.7px;
+    height: 16px;
+}
+.vector-parent {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    width: 18.7px;
+    height: 16px;
+}
+.mail {
+    position: absolute;
+    top: 22px;
+    left: 22px;
+    width: 146.7px;
+    height: 24px;
+}
+.subscribe2 {
+    position: absolute;
+    top: 13px;
+    left: 26px;
+}
+
+.subscribe-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 9px;
+    left: 533px;
+    border-radius: 8px;
+    background-color: #fa7436;
+    width: 132px;
+    height: 50px;
+    color: #fff;
+}
+.subscribe-btn:hover {
+    background-color: #fefcfb;
+    color:#fa7436
+}
+
+.subscribe1 {
+    position: absolute;
+    top: 188px;
+    left: 15px;
+    width: 674px;
+    height: 68px;
+    text-align: left;
+    font-size: 16px;
+    color: #999;
+    font-family: Poppins;
+}
+
+.content39 {
+    position: absolute;
+    top: 80px;
+    left: 274px;
+    width: 708px;
+    height: 256px;
+}
+.subscribe {
+    position: absolute;
+    top: 0px;
+    left: 375px;
+    width: 1170.2px;
+    height: 416px;
+    text-align: center;
+    font-size: 48px;
+    color: #fff;
+    font-family: Volkhov;
+}
+.footer {
+    position: absolute;
+    top: 4977px;
+    left: -17px;
+    width: 1920px;
+    height: 898px;
+    color: #666;
+}
+.travel-agency-landing-page {
+    width: 100%;
+    position: relative;
+    background-color: #fefcfb;
+    height: 5875px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #222;
+    font-family: Poppins;
+}
+
+.subscribe-and-get {
+    width: 708px;
+    position: relative;
+    font-size: 48px;
+    display: inline-block;
+    font-family: Volkhov;
+    color: #fff;
+    text-align: center;
+}
+

@@ -1,0 +1,344 @@
+/* General Styles */
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  /* Features Section */
+  .features-section {
+    padding: 80px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .features-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .features-title {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .features-description {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #777;
+  }
+  
+  .features-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .features-text {
+    flex: 1;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .features-image {
+    flex: 1;
+    object-fit: cover;
+  }
+  
+  /* Deals Section */
+  .deals-section {
+    padding: 60px 20px;
+    position: relative;
+  }
+  
+  .deals-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .deals-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .deals-description {
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .deals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .deal-image {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .deal-image:hover {
+    transform: scale(1.05);
+  }
+  
+  .deals-dots {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.5;
+  }
+  
+  /* Vacation Section */
+  .vacation-section {
+    padding: 60px 20px;
+    background-color: #f3f4f6;
+  }
+  
+  .vacation-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .vacation-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .vacation-description {
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .destination-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .destination-card {
+    width: 200px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .destination-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Testimonial Section */
+  .testimonial-section {
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .testimonial-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .testimonial-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-subtitle {
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .testimonial-avatar {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 20px;
+  }
+  
+  .quote-box {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .quote-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .quote-author {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+  }
+  
+  /* Blog Section */
+  .blog-section {
+    padding: 60px 20px;
+  }
+  
+  .blog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .blog-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .blog-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .blog-card {
+    width: 300px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .blog-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Subscribe Section */
+  .subscribe-section {
+    padding: 60px 20px;
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+  }
+  
+  .subscribe-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .subscribe-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .subscribe-form .form-group {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  .subscribe-form input {
+    padding: 10px;
+    flex: 1;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .subscribe-button {
+    background-color: #ff7b00;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #e66a00;
+  }
+  
+  /* Footer */
+  .footer {
+    padding: 40px 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .footer-info {
+    margin-bottom: 20px;
+  }
+  
+  .footer-logo {
+    max-width: 150px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-description {
+    color: #bbb;
+  }
+  
+  .footer-links {
+    margin-bottom: 20px;
+  }
+  
+  .footer-heading {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .footer-link {
+    display: block;
+    color: #ff7b00;
+    margin-bottom: 5px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-link:hover {
+    color: #ffa74d;
+  }
+  
+  .footer-divider {
+    border: none;
+    height: 1px;
+    background-color: #444;
+    margin: 20px 0;
+  }
+  
+  .footer-bottom {
+    font-size: 0.9rem;
+    color: #bbb;
+  }
+  

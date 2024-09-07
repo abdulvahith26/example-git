@@ -1,0 +1,13 @@
+:root{
+    --balck : #222222;
+    --orange : #FA7436;
+}
+*,::before,::after{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family:"poppins",sans-serif;
+
+}

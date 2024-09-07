@@ -1,0 +1,45 @@
+#i-d{
+    text-align: center;
+    background-color: lightcoral;
+    color: black;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px 0px 20px 0px;
+}
+.cls{
+    padding:auto;
+    margin:auto;
+    background-color:aqua;
+    color:brown;
+    font-size:medium;
+    font-family:'Courier New', Courier, monospace;
+}
+div{
+    background-color:black;
+    color:bisque;
+    display: block;
+    font-size:small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+    font-size: smaller;
+    color: aquamarine;
+    
+}
+a:link{
+    color:red
+
+}
+a:visited{
+    background-color: gray;
+}
+a:hover{
+    background-color:greenyellow;
+}
+a:active{
+    background-color: green;
+}
+.highlighter{
+    display:inline
+}
